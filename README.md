@@ -16,4 +16,4 @@ Run
     mvn spring-boot:run
 
 
-updated readme to check slack integration. 
+another updated readme to check slack integration. 
